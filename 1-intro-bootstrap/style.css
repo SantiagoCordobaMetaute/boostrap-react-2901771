@@ -11,3 +11,18 @@
 .bg-tomato{
     background-color: tomato;
 }
+.bg-blue{
+    background-color: rgb(108, 152, 255);
+}
+.fs-0{
+    font-size: 5em;
+}
+.bg-Rosa{
+    background-color: rgb(255, 88, 174);
+}
+.bg-Moztaza{
+    background-color: rgb(255, 174, 88);
+}
+.bg-Naranja{
+    background-color: rgb(251, 139, 3);
+}
