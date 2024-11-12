@@ -5,7 +5,14 @@ body{
     background-repeat: no-repeat;
 }
 .opacidad{
+    
     height: 100vh;
     background-color: black;
     opacity: 50%;
+}
+.imagen{
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
