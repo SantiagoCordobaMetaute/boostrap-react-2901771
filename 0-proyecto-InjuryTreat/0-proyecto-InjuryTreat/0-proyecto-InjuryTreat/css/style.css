@@ -1,0 +1,12 @@
+.fs-0{
+    font-size: 4em;
+    color: white;
+}
+.icono{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.interior{
+    height: 350px;
+}
